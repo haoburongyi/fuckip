@@ -1,0 +1,848 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+ipv6: false
+
+dns:
+  enable: true
+  listen: 0.0.0.0:5353
+  enhanced-mode: fake-ip
+  nameserver:
+    - 10.133.223.249
+    - 10.18.39.137
+    - 223.5.5.5
+    - 119.29.29.29
+    - 1.1.1.1
+
+
+proxies:
+  - name: "VLESS-TCP-REALITY-VISION-53889"
+    type: vless
+    server: 23.95.35.74
+    port: 53889
+    uuid: b814ade7-dda2-4cf6-afc3-2060f8602fc0
+    udp: true
+    tls: true
+    servername: www.amd.com
+    flow: xtls-rprx-vision
+    reality-opts:
+      public-key: eJ85JuHpc_LU1pgU9flra4OVWRD4lDw-bhQPxsIbvk0
+      short-id: 0a4befbf8682bc53
+    client-fingerprint: chrome
+    skip-cert-verify: false
+
+  - name: "Argo-Temp-Vless-51510"
+    type: vless
+    server: conclude-grants-variety-bonds.trycloudflare.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "time.cloudflare.com"
+    type: vless
+    server: time.cloudflare.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "shopify.com"
+    type: vless
+    server: shopify.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "time.is"
+    type: vless
+    server: time.is
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "icook.hk"
+    type: vless
+    server: icook.hk
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "icook.tw"
+    type: vless
+    server: icook.tw
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "ip.sb"
+    type: vless
+    server: ip.sb
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "japan.com"
+    type: vless
+    server: japan.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "malaysia.com"
+    type: vless
+    server: malaysia.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "russia.com"
+    type: vless
+    server: russia.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "singapore.com"
+    type: vless
+    server: singapore.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "skk.moe"
+    type: vless
+    server: skk.moe
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.visa.com"
+    type: vless
+    server: www.visa.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.visa.com.sg"
+    type: vless
+    server: www.visa.com.sg
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.visa.com.hk"
+    type: vless
+    server: www.visa.com.hk
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.visa.com.tw"
+    type: vless
+    server: www.visa.com.tw
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.visa.co.jp"
+    type: vless
+    server: www.visa.co.jp
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.visakorea.com"
+    type: vless
+    server: www.visakorea.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.gco.gov.qa"
+    type: vless
+    server: www.gco.gov.qa
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.gov.se"
+    type: vless
+    server: www.gov.se
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.gov.ua"
+    type: vless
+    server: www.gov.ua
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.digitalocean.com"
+    type: vless
+    server: www.digitalocean.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.csgo.com"
+    type: vless
+    server: www.csgo.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.whoer.net"
+    type: vless
+    server: www.whoer.net
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.whatismyip.com"
+    type: vless
+    server: www.whatismyip.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.ipget.net"
+    type: vless
+    server: www.ipget.net
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.hugedomains.com"
+    type: vless
+    server: www.hugedomains.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.udacity.com"
+    type: vless
+    server: www.udacity.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.4chan.org"
+    type: vless
+    server: www.4chan.org
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.okcupid.com"
+    type: vless
+    server: www.okcupid.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.glassdoor.com"
+    type: vless
+    server: www.glassdoor.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.udemy.com"
+    type: vless
+    server: www.udemy.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.baipiao.eu.org"
+    type: vless
+    server: www.baipiao.eu.org
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "cdn.anycast.eu.org"
+    type: vless
+    server: cdn.anycast.eu.org
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "cdn-all.xn--b6gac.eu.org"
+    type: vless
+    server: cdn-all.xn--b6gac.eu.org
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "cdn-b100.xn--b6gac.eu.org"
+    type: vless
+    server: cdn-b100.xn--b6gac.eu.org
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "xn--b6gac.eu.org"
+    type: vless
+    server: xn--b6gac.eu.org
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "edgetunnel.anycast.eu.org"
+    type: vless
+    server: edgetunnel.anycast.eu.org
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "alejandracaiccedo.com"
+    type: vless
+    server: alejandracaiccedo.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "nc.gocada.co"
+    type: vless
+    server: nc.gocada.co
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "log.bpminecraft.com"
+    type: vless
+    server: log.bpminecraft.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.boba88slot.com"
+    type: vless
+    server: www.boba88slot.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "gur.gov.ua"
+    type: vless
+    server: gur.gov.ua
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.zsu.gov.ua"
+    type: vless
+    server: www.zsu.gov.ua
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.iakeys.com"
+    type: vless
+    server: www.iakeys.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "edtunnel-dgp.pages.dev"
+    type: vless
+    server: edtunnel-dgp.pages.dev
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "www.d-555.com"
+    type: vless
+    server: www.d-555.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "fbi.gov"
+    type: vless
+    server: fbi.gov
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "mfa.gov.ua"
+    type: vless
+    server: mfa.gov.ua
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+  - name: "cf.0sm.com"
+    type: vless
+    server: cf.0sm.com
+    port: 443
+    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
+    udp: true
+    tls: true
+    servername: conclude-grants-variety-bonds.trycloudflare.com
+    skip-cert-verify: false
+    network: ws
+    ws-opts:
+      path: "/0a2094cba62ae2a0?ed=2560"
+      headers:
+        Host: conclude-grants-variety-bonds.trycloudflare.com
+
+proxy-groups:
+  - name: 节点选择
+    type: select
+    proxies:
+      - VLESS-TCP-REALITY-VISION-53889
+      - Argo-Temp-Vless-51510
+      - time.cloudflare.com
+      - shopify.com
+      - time.is
+      - icook.hk
+      - icook.tw
+      - ip.sb
+      - japan.com
+      - malaysia.com
+      - russia.com
+      - singapore.com
+      - skk.moe
+      - www.visa.com
+      - www.visa.com.sg
+      - www.visa.com.hk
+      - www.visa.com.tw
+      - www.visa.co.jp
+      - www.visakorea.com
+      - www.gco.gov.qa
+      - www.gov.se
+      - www.gov.ua
+      - www.digitalocean.com
+      - www.csgo.com
+      - www.whoer.net
+      - www.whatismyip.com
+      - www.ipget.net
+      - www.hugedomains.com
+      - www.udacity.com
+      - www.4chan.org
+      - www.okcupid.com
+      - www.glassdoor.com
+      - www.udemy.com
+      - www.baipiao.eu.org
+      - cdn.anycast.eu.org
+      - cdn-all.xn--b6gac.eu.org
+      - cdn-b100.xn--b6gac.eu.org
+      - xn--b6gac.eu.org
+      - edgetunnel.anycast.eu.org
+      - alejandracaiccedo.com
+      - nc.gocada.co
+      - log.bpminecraft.com
+      - www.boba88slot.com
+      - gur.gov.ua
+      - www.zsu.gov.ua
+      - www.iakeys.com
+      - edtunnel-dgp.pages.dev
+      - www.d-555.com
+      - fbi.gov
+      - mfa.gov.ua
+      - cf.0sm.com
+      - DIRECT
+
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,节点选择
