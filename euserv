@@ -20,20 +20,6 @@ dns:
 
 
 proxies:
-  - name: "VLESS-TCP-REALITY-VISION-53889"
-    type: vless
-    server: 23.95.35.74
-    port: 53889
-    uuid: b814ade7-dda2-4cf6-afc3-2060f8602fc0
-    udp: true
-    tls: true
-    servername: www.amd.com
-    flow: xtls-rprx-vision
-    reality-opts:
-      public-key: eJ85JuHpc_LU1pgU9flra4OVWRD4lDw-bhQPxsIbvk0
-      short-id: 0a4befbf8682bc53
-    client-fingerprint: chrome
-    skip-cert-verify: false
 
   - name: "Argo-Temp-Vless-51510"
     type: vless
@@ -789,7 +775,6 @@ proxy-groups:
   - name: 节点选择
     type: select
     proxies:
-      - VLESS-TCP-REALITY-VISION-53889
       - Argo-Temp-Vless-51510
       - time.cloudflare.com
       - shopify.com
