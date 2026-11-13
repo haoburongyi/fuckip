@@ -34,18 +34,18 @@ proxies:
 
   - name: "Argo-Temp-Vless-53888"
     type: vless
-    server: cult-head-ozone-spoken.trycloudflare.com
+    server: prize-sandra-acid-discounts.trycloudflare.com
     port: 443
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "time.cloudflare.com"
     type: vless
@@ -54,13 +54,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "shopify.com"
     type: vless
@@ -69,13 +69,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "time.is"
     type: vless
@@ -84,13 +84,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "icook.hk"
     type: vless
@@ -99,13 +99,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "icook.tw"
     type: vless
@@ -114,13 +114,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "ip.sb"
     type: vless
@@ -129,13 +129,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "japan.com"
     type: vless
@@ -144,13 +144,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "malaysia.com"
     type: vless
@@ -159,13 +159,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "russia.com"
     type: vless
@@ -174,13 +174,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "singapore.com"
     type: vless
@@ -189,13 +189,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "skk.moe"
     type: vless
@@ -204,13 +204,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.visa.com"
     type: vless
@@ -219,13 +219,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.visa.com.sg"
     type: vless
@@ -234,13 +234,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.visa.com.hk"
     type: vless
@@ -249,13 +249,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.visa.com.tw"
     type: vless
@@ -264,13 +264,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.visa.co.jp"
     type: vless
@@ -279,13 +279,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.visakorea.com"
     type: vless
@@ -294,13 +294,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.gco.gov.qa"
     type: vless
@@ -309,13 +309,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.gov.se"
     type: vless
@@ -324,13 +324,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.gov.ua"
     type: vless
@@ -339,13 +339,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.digitalocean.com"
     type: vless
@@ -354,13 +354,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.csgo.com"
     type: vless
@@ -369,13 +369,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.whoer.net"
     type: vless
@@ -384,13 +384,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.whatismyip.com"
     type: vless
@@ -399,13 +399,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.ipget.net"
     type: vless
@@ -414,13 +414,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.hugedomains.com"
     type: vless
@@ -429,13 +429,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.udacity.com"
     type: vless
@@ -444,13 +444,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.4chan.org"
     type: vless
@@ -459,13 +459,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.okcupid.com"
     type: vless
@@ -474,13 +474,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.glassdoor.com"
     type: vless
@@ -489,13 +489,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.udemy.com"
     type: vless
@@ -504,13 +504,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.baipiao.eu.org"
     type: vless
@@ -519,13 +519,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "cdn.anycast.eu.org"
     type: vless
@@ -534,13 +534,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "cdn-all.xn--b6gac.eu.org"
     type: vless
@@ -549,13 +549,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "cdn-b100.xn--b6gac.eu.org"
     type: vless
@@ -564,13 +564,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "xn--b6gac.eu.org"
     type: vless
@@ -579,13 +579,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "edgetunnel.anycast.eu.org"
     type: vless
@@ -594,13 +594,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "alejandracaiccedo.com"
     type: vless
@@ -609,13 +609,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "nc.gocada.co"
     type: vless
@@ -624,13 +624,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "log.bpminecraft.com"
     type: vless
@@ -639,13 +639,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.boba88slot.com"
     type: vless
@@ -654,13 +654,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "gur.gov.ua"
     type: vless
@@ -669,13 +669,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.zsu.gov.ua"
     type: vless
@@ -684,13 +684,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.iakeys.com"
     type: vless
@@ -699,13 +699,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "edtunnel-dgp.pages.dev"
     type: vless
@@ -714,13 +714,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "www.d-555.com"
     type: vless
@@ -729,13 +729,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "fbi.gov"
     type: vless
@@ -744,13 +744,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "mfa.gov.ua"
     type: vless
@@ -759,13 +759,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
   - name: "cf.0sm.com"
     type: vless
@@ -774,13 +774,13 @@ proxies:
     uuid: ca83be4f-09e4-455e-a70e-427ef66f65e1
     udp: true
     tls: true
-    servername: cult-head-ozone-spoken.trycloudflare.com
+    servername: prize-sandra-acid-discounts.trycloudflare.com
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/e39922ae2f025f7b?ed=2560"
       headers:
-        Host: cult-head-ozone-spoken.trycloudflare.com
+        Host: prize-sandra-acid-discounts.trycloudflare.com
 
 proxy-groups:
   - name: 节点选择
