@@ -23,18 +23,18 @@ proxies:
 
   - name: "Argo-Temp-Vless-51510"
     type: vless
-    server: conclude-grants-variety-bonds.trycloudflare.com
+    server: a.189.cn
     port: 443
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "time.cloudflare.com"
     type: vless
@@ -43,13 +43,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "shopify.com"
     type: vless
@@ -58,13 +58,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "time.is"
     type: vless
@@ -73,13 +73,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "icook.hk"
     type: vless
@@ -88,13 +88,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "icook.tw"
     type: vless
@@ -103,13 +103,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "ip.sb"
     type: vless
@@ -118,13 +118,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "japan.com"
     type: vless
@@ -133,13 +133,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "malaysia.com"
     type: vless
@@ -148,13 +148,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "russia.com"
     type: vless
@@ -163,13 +163,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "singapore.com"
     type: vless
@@ -178,13 +178,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "skk.moe"
     type: vless
@@ -193,13 +193,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.visa.com"
     type: vless
@@ -208,13 +208,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.visa.com.sg"
     type: vless
@@ -223,13 +223,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.visa.com.hk"
     type: vless
@@ -238,13 +238,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.visa.com.tw"
     type: vless
@@ -253,13 +253,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.visa.co.jp"
     type: vless
@@ -268,13 +268,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.visakorea.com"
     type: vless
@@ -283,13 +283,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.gco.gov.qa"
     type: vless
@@ -298,13 +298,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.gov.se"
     type: vless
@@ -313,13 +313,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.gov.ua"
     type: vless
@@ -328,13 +328,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.digitalocean.com"
     type: vless
@@ -343,13 +343,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.csgo.com"
     type: vless
@@ -358,13 +358,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.whoer.net"
     type: vless
@@ -373,13 +373,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.whatismyip.com"
     type: vless
@@ -388,13 +388,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.ipget.net"
     type: vless
@@ -403,13 +403,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.hugedomains.com"
     type: vless
@@ -418,13 +418,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.udacity.com"
     type: vless
@@ -433,13 +433,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.4chan.org"
     type: vless
@@ -448,13 +448,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.okcupid.com"
     type: vless
@@ -463,13 +463,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.glassdoor.com"
     type: vless
@@ -478,13 +478,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.udemy.com"
     type: vless
@@ -493,13 +493,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.baipiao.eu.org"
     type: vless
@@ -508,13 +508,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "cdn.anycast.eu.org"
     type: vless
@@ -523,13 +523,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "cdn-all.xn--b6gac.eu.org"
     type: vless
@@ -538,13 +538,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "cdn-b100.xn--b6gac.eu.org"
     type: vless
@@ -553,13 +553,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "xn--b6gac.eu.org"
     type: vless
@@ -568,13 +568,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "edgetunnel.anycast.eu.org"
     type: vless
@@ -583,13 +583,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "alejandracaiccedo.com"
     type: vless
@@ -598,13 +598,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "nc.gocada.co"
     type: vless
@@ -613,13 +613,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "log.bpminecraft.com"
     type: vless
@@ -628,13 +628,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.boba88slot.com"
     type: vless
@@ -643,13 +643,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "gur.gov.ua"
     type: vless
@@ -658,13 +658,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.zsu.gov.ua"
     type: vless
@@ -673,13 +673,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.iakeys.com"
     type: vless
@@ -688,13 +688,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "edtunnel-dgp.pages.dev"
     type: vless
@@ -703,13 +703,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "www.d-555.com"
     type: vless
@@ -718,13 +718,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "fbi.gov"
     type: vless
@@ -733,13 +733,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "mfa.gov.ua"
     type: vless
@@ -748,13 +748,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
   - name: "cf.0sm.com"
     type: vless
@@ -763,13 +763,13 @@ proxies:
     uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
     udp: true
     tls: true
-    servername: conclude-grants-variety-bonds.trycloudflare.com
+    servername: a.189.cn
     skip-cert-verify: false
     network: ws
     ws-opts:
       path: "/0a2094cba62ae2a0?ed=2560"
       headers:
-        Host: conclude-grants-variety-bonds.trycloudflare.com
+        Host: a.189.cn
 
 proxy-groups:
   - name: 节点选择
