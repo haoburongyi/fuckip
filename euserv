@@ -21,21 +21,6 @@ dns:
 
 proxies:
 
-  - name: "Argo-Temp-Vless-51510"
-    type: vless
-    server: a.189.cn
-    port: 443
-    uuid: bce90d44-0cfc-4a8d-a34a-d156f3fed3d5
-    udp: true
-    tls: true
-    servername: a.189.cn
-    skip-cert-verify: false
-    network: ws
-    ws-opts:
-      path: "/0a2094cba62ae2a0?ed=2560"
-      headers:
-        Host: a.189.cn
-
   - name: "time.cloudflare.com"
     type: vless
     server: time.cloudflare.com
@@ -775,7 +760,6 @@ proxy-groups:
   - name: 节点选择
     type: select
     proxies:
-      - Argo-Temp-Vless-51510
       - time.cloudflare.com
       - shopify.com
       - time.is
